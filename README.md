@@ -39,16 +39,18 @@ chmod +x install-nethunter-termux
 ```
 ### 👹 Clone SPY-NETHUNTER
 ```bash
-git clone [https://github.com/username-kamu/SPY-NETHUNTER.git](https://github.com/username-kamu/SPY-NETHUNTER.git)
-cd SPY-NETHUNTER
+git clone [https://github.com/123tool/NETHUNTER-Marauder.git](https://github.com/123tool/NETHUNTER-Marauder.git)
+cd NETHUNTER-Marauder
 pip install requests
 python spy_nethunter.py
 ```
 ### 📖 Panduan Penggunaan
+
 ​Jalankan nethunter di Termux untuk masuk ke lingkungan Kali.
 ​Jalankan menu spy_nethunter.py untuk memilih mode serangan:
 ​Mode 1: Scanning jaringan (Marauder Style).
 ​Mode 2: Menjalankan Wifite untuk cracking password.
 ​Mode 3: Menjalankan Bettercap untuk memantau data (Sniffing).
+
 ​⚠️ Disclaimer
 ​Alat ini dibuat hanya untuk tujuan pendidikan, audit keamanan, dan riset forensik digital. Penggunaan alat ini untuk mengakses jaringan tanpa izin adalah tindakan ilegal. Rolandino & 123Tool tidak bertanggung jawab atas segala penyalahgunaan.
